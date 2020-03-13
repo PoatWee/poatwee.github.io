@@ -1,0 +1,9 @@
+Origin: April
+Label: April
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: April Repo
+Icon: file://CydiaIcon.png
