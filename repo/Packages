@@ -4,7 +4,7 @@ Maintainer: 小苹果
 Architecture: iphoneos-arm
 Filename: ./deb_files/com.cydiabc.watermark_0.0.1-1k_iphoneos-arm.deb
 Version: 0.0.1-1K
-Depends: firmware (>= 10.0), firmware (<= 12.4)
+Depends: firmware (>= 10.0)
 Description: 水印宝、快映开启VIP。
 Name: 快映VIP
 Author: 小苹果
