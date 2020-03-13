@@ -1,11 +1,11 @@
-Package: com.hongv.test
-Section: System
-Maintainer: 红V
+Package: com.cydiabc.watermark_0.0.1-1k_iphoneos-arm
+Section: Tweaks
+Maintainer: 小苹果
 Architecture: iphoneos-arm
-Filename: ./deb_files/com.hongv.test.deb
-Version: 1.0
-Depends: firmware (>= 99.0)
-Description: 此安装包是空包，请勿安装。
-Name: 测试包
-Author: 红V
-Md5sum: bd9b8809cda7e57e78ab1e3ae5de3b04
+Filename: ./deb_files/com.cydiabc.watermark_0.0.1-1k_iphoneos-arm.deb
+Version: 0.0.1-1K
+Depends: firmware (>= 10.0), firmware (<= 12.4)
+Description: 水印宝、快映开启VIP。
+Name: 快映VIP
+Author: 小苹果
+Md5sum: 0E1193164EF040D0F65EABF3F3AB4377
