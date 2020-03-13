@@ -1,10 +1,10 @@
-Package: com.cydiabc.watermark_0.0.1-1k_iphoneos-arm
+Package: com.poatwee.watermark_0.0.1-1k
 Section: Tweaks
 Maintainer: 小苹果
 Architecture: iphoneos-arm
-Filename: ./deb_files/com.cydiabc.watermark_0.0.1-1k_iphoneos-arm.deb
+Filename: ./deb_files/com.poatwee.watermark_0.0.1-1k.deb
 Version: 0.0.1-1K
-Depends: firmware (>= 10.0)
+Depends: firmware (>= 10.0), firmware (<= 12.4)
 Description: 水印宝、快映开启VIP。
 Name: 快映VIP
 Author: 小苹果
