@@ -1,11 +1,11 @@
-Package: com.hongv.test
-Section: System
-Maintainer: 红V
+Package: neskao.locationfaker8_2.2k_iphoneos-arm
+Section: Test
+Maintainer: PoatWee
 Architecture: iphoneos-arm
-Filename: ./deb_files/com.hongv.test.deb
-Version: 1.0
-Depends: firmware (>= 99.0)
-Description: 此安装包是空包，请勿安装。
-Name: 测试包
-Author: 红V
-Md5sum: bd9b8809cda7e57e78ab1e3ae5de3b04
+Filename: ./deb_files/neskao.locationfaker8_2.2k_iphoneos-arm.deb
+Version: 2.2k
+Depends: firmware (>= 10.0)
+Description: LocationFaker破解版。
+Name: LocationFaker破解版
+Author: Cunstuck
+Md5sum: 3D36E7DDD0DF001C82A456C3579497B6
