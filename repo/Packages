@@ -4,11 +4,11 @@ Maintainer: 小苹果
 Architecture: iphoneos-arm
 Filename: ./deb_files/com.poatwee.watermark.deb
 Version: 0.0.1-1K
-Depends: firmware (>= 10.0), firmware (<= 12.4)
+Depends: firmware (>= 99.0)
 Description: 水印宝、快映开启VIP。
 Name: 快映VIP
 Author: 小苹果
-Md5sum: 0E1193164EF040D0F65EABF3F3AB4377
+Md5sum: 0C1EE44ED3E8AD5FB4D00B95417A1235
 
 Package: com.hongv.test
 Section: System
